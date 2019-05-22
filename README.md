@@ -1,5 +1,5 @@
 # rades
-## A clustered, reactive, automated server sulotion.
+## A clustered, reactive, automated server solution.
 
 [![experimental](http://badges.github.io/stability-badges/dist/experimental.svg)](http://github.com/badges/stability-badges)
 
